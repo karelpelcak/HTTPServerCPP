@@ -11,7 +11,7 @@ gh repo clone karelpelcak/HTTPServerCPP
 ## Usage
 
 ```bash
-g++ -o main main.cpp agrManage.cpp
+g++ -o main main.cpp argManager.cpp
 ```
 ```bash
 ./main --port={cislo portu}

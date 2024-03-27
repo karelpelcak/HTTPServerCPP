@@ -1,4 +1,4 @@
-#include "agrManage.hpp"
+#include "argManager.hpp"
 #include <iostream>
 #include <string>
 
@@ -15,6 +15,4 @@ int main(int argc, char *argv[]) {
     std::cout << "Dev volba: " << (devOption ? "true" : "false") << std::endl;
 
     return 0;
-
-
 }

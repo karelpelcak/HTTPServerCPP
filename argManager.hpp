@@ -7,8 +7,5 @@ class ArgManager {
 public:
     static int getPort(int argc, char *argv[]);
     static bool hasDevArgument(int argc, char *argv[]);
-    
-
 };
-
 #endif
