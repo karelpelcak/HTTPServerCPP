@@ -3,7 +3,7 @@
 #include <string>
 
 int main(int argc, char *argv[]) {
-    /*int port = ArgManager::getPort(argc, argv);
+    int port = ArgManager::getPort(argc, argv);
     if (port == -1) {
         std::cerr << "Chyba: očekává se právě 1 argument --port=cisloportu" << std::endl;
         return 1;
