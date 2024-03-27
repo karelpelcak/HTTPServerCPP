@@ -13,6 +13,5 @@ int main(int argc, char *argv[]) {
 
     std::cout << "Port: " << port << std::endl;
     std::cout << "Dev volba: " << (devOption ? "true" : "false") << std::endl;
-
     return 0;
 }
