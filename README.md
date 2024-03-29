@@ -11,7 +11,7 @@ gh repo clone karelpelcak/HTTPServerCPP
 ## Usage
 
 ```bash
-g++ -o main main.cpp argManager.cpp Logger/Logger.cpp
+g++ -o main main.cpp argManager/argManager.cpp Logger/Logger.cpp
 ```
 ```bash
 ./main --port={cislo portu}
