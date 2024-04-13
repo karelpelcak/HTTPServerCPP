@@ -1,0 +1,3 @@
+/Users/karelpelcak/Documents/Programming/HTTPServerCPP/build/CMakeFiles/main.dir
+/Users/karelpelcak/Documents/Programming/HTTPServerCPP/build/CMakeFiles/edit_cache.dir
+/Users/karelpelcak/Documents/Programming/HTTPServerCPP/build/CMakeFiles/rebuild_cache.dir

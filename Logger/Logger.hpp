@@ -12,5 +12,6 @@ class Logger{
         static void Warn(std::string text);
         static void Error(std::string text);
         static void Success(std::string text);
+    private:
         static std::string GetCurrentTime();
 };

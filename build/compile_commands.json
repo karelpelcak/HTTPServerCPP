@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/karelpelcak/Documents/Programming/HTTPServerCPP/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/karelpelcak/Documents/Programming/HTTPServerCPP/main.cpp",
+  "file": "/Users/karelpelcak/Documents/Programming/HTTPServerCPP/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/karelpelcak/Documents/Programming/HTTPServerCPP/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/main.dir/Logger/Logger.cpp.o -c /Users/karelpelcak/Documents/Programming/HTTPServerCPP/Logger/Logger.cpp",
+  "file": "/Users/karelpelcak/Documents/Programming/HTTPServerCPP/Logger/Logger.cpp",
+  "output": "CMakeFiles/main.dir/Logger/Logger.cpp.o"
+},
+{
+  "directory": "/Users/karelpelcak/Documents/Programming/HTTPServerCPP/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/main.dir/argManager/argManager.cpp.o -c /Users/karelpelcak/Documents/Programming/HTTPServerCPP/argManager/argManager.cpp",
+  "file": "/Users/karelpelcak/Documents/Programming/HTTPServerCPP/argManager/argManager.cpp",
+  "output": "CMakeFiles/main.dir/argManager/argManager.cpp.o"
+}
+]

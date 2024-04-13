@@ -15,6 +15,9 @@ int main(int argc, char *argv[]) {
     std::cout << "Port: " << port << std::endl;
     Logger::Info("Port: " + std::to_string(port));
     Logger::Info("Dev: " + (devOption ? std::string("true") : std::string("false")));
-    std::cout << "Dev volba: " << (devOption ? "true" : "false") << std::endl;
+
+    Logger::Error("Logging error");
+    Logger::Success("Logging success");
+    Logger::Warn("Logging warning");
     return 0;
-}
+};
